@@ -1,0 +1,17 @@
+
+
+body {
+    background: lightcoral;
+}
+
+hr {
+    width: 50%;
+}
+
+#pageTitle {
+    text-align: center;
+}
+
+#pageInfo {
+    text-align: center;
+}
