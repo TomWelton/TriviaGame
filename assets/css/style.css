@@ -1,17 +1,36 @@
 
 
 body {
-    background: lightcoral;
+    background: slategray;
+}
+
+div {
+    text-align: center;
+}
+
+.question {
+    font-weight: bold;
+    font-size: 130%;
+}
+
+#pageInfo {
+    font-size: 125%;
+}
+
+#submitWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+#trivia {
+    line-height: 1.8;
+}
+
+#timer {
+    font-size: 200%;
 }
 
 hr {
     width: 50%;
-}
-
-#pageTitle {
-    text-align: center;
-}
-
-#pageInfo {
-    text-align: center;
 }
